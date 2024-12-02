@@ -1,4 +1,4 @@
-# CRUD Employee
+# CRUD Operations - Employee
 
 ![Homepage](https://user-images.githubusercontent.com/67349235/175102934-8f73ce8b-6d32-4953-bf93-b0ea9aa97f38.png)
 
